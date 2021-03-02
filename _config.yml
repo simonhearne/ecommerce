@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: Fur
-url: "http://turquoise-rook.cloudvent.net/"
+title: Simon's Demo Site
+url: "http://simonhearne.webperf.ninja"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
@@ -13,8 +13,8 @@ logo: /siteicon.png
 description: Fur t-shirt store
 author:
   name: fur
-  email: fur@example.com
-  twitter: fur # twitter username without the @ symbol
+  email: simon@hearne.me
+  twitter: simonhearne # twitter username without the @ symbol
   phone: "+1 23456789"
 social:
   name: Fur Template
