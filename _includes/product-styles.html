@@ -3,7 +3,7 @@
 		<div class="style" data-item-id="{{ forloop.index }}" {% unless forloop.first %}style="display: none"{% endunless %}>
 			<a href="{{ include.product.url }}">
 				<img
-					src="{{ site.baseurl }}{{ style.image }}"
+					src="{{ site.baseurl }}{{ style.image }}?im=Composite,scale=0.2,image=(url=https://learn.akamai.com/en-us/webhelp/image-manager/image-optimization/site/akamai-logo.png)"
 					sizes="(min-width: 1180px) 320px, (min-width: 1020px) 26vw, (min-width: 680px) 40vw, (max-width: 679px) 100vw"
 					width="1000" height="1000"
 					>
